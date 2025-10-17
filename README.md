@@ -33,7 +33,7 @@ Click link for running the **live Streamlit demo:**
 ## 📝 Notes
 
 - This repository is a **showcase/demo version only**; the full source code is private.  
-- For reference, the **legacy version (Demo 1)** public repository is available [here](https://github.com/sebakremis/TradeSentinel-Demo1).  
+- For reference, the source code for the **legacy version (Demo 1)** is available [here](https://github.com/sebakremis/TradeSentinel-Demo1).  
 
 ---
 
