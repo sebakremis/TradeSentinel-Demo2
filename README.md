@@ -1,21 +1,32 @@
-# TradeSentinel-Demo2
-Streamlit app showcasing trading simulations and analytics
 # 🚀 TradeSentinel Demo 2
+Streamlit app showcasing trading simulations and analytics.
 
-**TradeSentinel v2** is the next-generation trading analytics and market monitoring dashboard.  
-This is the **live Streamlit demo**, showcasing predictive insights and interactive visualizations for traders and analysts.
+This demo showcases predictive insights and interactive visualizations for traders and analysts.
+
+Click link for running the **live Streamlit demo:**
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tradesentinel.streamlit.app/)
 
-(Tip: On GitHub, links always open in the same tab. Right‑click and choose “Open link in new tab” if you prefer.)
+> **Tip:** On GitHub, links always open in the same tab. Right‑click and choose “Open link in new tab” if you prefer.)
 ---
 
-## 💡 Features
+## 💡 Key Features
 
-- 📊 Interactive market dashboards with historical and predicted metrics  
-- 📈 Forecasted price ranges and volatility indicators  
-- 🔍 Real-time visualization of trading insights  
-- ⚡ Fast and user-friendly Streamlit interface  
+- **📊 Unified Summary Table**  
+  Aggregate financial data from multiple sources into a single, easy-to-read table.  
+
+- **📈 Valuation Metrics & Simulations**  
+  Calculate core valuation metrics and perform Monte Carlo simulations to forecast price ranges and risks.  
+
+- **💰 Dividend Tracking**  
+  Compute accumulated dividends over the selected period for a complete performance view.  
+
+- **⏱ Dynamic Lookback Period**  
+  All data, metrics, and forecasts automatically **recalculate** when the study period (lookback) is modified.  
+
+- **🔍 Interactive Visualizations**  
+  Explore historical and simulated data through charts and dashboards for better decision-making.  
+
 
 ---
 
