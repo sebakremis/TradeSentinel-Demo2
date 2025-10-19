@@ -32,7 +32,7 @@ Click link for running the **live Streamlit demo:**
 
 ## 📝 Notes
 
-- This repository is a **showcase/demo version only**; the full source code is private.  
+- This repository is a **showcase/demo version only**; the full source code is currently **private** since it's under active experimentation with different data‑fetching modules to benchmark and achieve the fastest possible results. Once the pipeline is optimized, the repository will be reorganized and released publicly.  
 - For reference, the source code for the **legacy version (Demo 1)** is available [here](https://github.com/sebakremis/TradeSentinel-Demo1).  
 
 ---
