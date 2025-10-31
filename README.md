@@ -32,7 +32,8 @@ Click link for running the **live Streamlit demo:**
 
 ## 📝 Notes
 
-- This repository is a **showcase/demo version only**; the full source code is currently **private**.  
+- This repository is a **showcase/demo version only**; the full source code is currently **private**.
+- The project is currently undergoing a structured refactoring and optimization phase to improve scalability and maintainability. In parallel, I am exploring the integration of agentic AI features to ensure the framework remains relevant and forward‑looking.  
 - For reference, the source code for the **legacy version (Demo 1)** is available [here](https://github.com/sebakremis/TradeSentinel-Demo1).  
 
 ---
